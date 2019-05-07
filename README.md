@@ -3,7 +3,7 @@
 
 ### What is Filler
 
-Linear_Regression is the second project of the algorithmic branch at 42.
+Fillit is the second project of the algorithmic branch at 42.
 
 The project is an algorithmic challenge, where given a map and pieces, you have to fill the map as good s you can to block your opponent and have the maximum space taken for you.
 
